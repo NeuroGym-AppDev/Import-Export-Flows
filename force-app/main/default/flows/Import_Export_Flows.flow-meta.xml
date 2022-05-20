@@ -237,7 +237,7 @@ MID({!FlowFileUpload.fileNames},2,LEN({!FlowFileUpload.fileNames})-16))</express
         </connector>
         <fields>
             <name>DeployFlow_fsc</name>
-            <extensionName>c:fsc_transferMetadata</extensionName>
+            <extensionName>c:fsc_transferMetadata3</extensionName>
             <fieldType>ComponentInstance</fieldType>
             <inputParameters>
                 <name>metadataName</name>
